@@ -1,0 +1,59 @@
+{
+ "scenes": [
+  {
+   "type": "hook",
+   "secs": 2.5,
+   "tag": "EXCEL TIP #1 · ACCOUNTS",
+   "title": "Find [[missing entries]] in 10 seconds",
+   "tamil": "Tally-ல இருக்கு, Bank Statement-ல இல்லையா?",
+   "say": "Find missing entries between Tally and your bank, in ten seconds.",
+   "say_ta": "Tally-ல இருக்கு, Bank-ல இல்லையா?"
+  },
+  {
+   "type": "code",
+   "secs": 2.5,
+   "en": "Paste this in B2:",
+   "code": "=IF(COUNTIF(Bank!A:A,A2)=0,\"Missing\",\"OK\")",
+   "tamil": "இந்த ஒரு formula போதும்!",
+   "say": "Paste this formula in cell B 2.",
+   "say_ta": ""
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "1",
+   "en": "Tally ref numbers in Column A",
+   "tamil": "Tally ref numbers-ஐ Column A-ல போடுங்க",
+   "say": "",
+   "say_ta": "Tally ref numbers-ஐ Column A-ல போடுங்க."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "2",
+   "en": "Bank refs in a sheet named \"Bank\"",
+   "tamil": "Bank entries-ஐ \"Bank\" sheet-ல போடுங்க",
+   "say": "",
+   "say_ta": "Bank entries-ஐ Bank-ங்கிற sheet-ல போடுங்க."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "3",
+   "en": "Drag down, filter \"Missing\"",
+   "tamil": "கீழே drag பண்ணி \"Missing\" filter பண்ணுங்க",
+   "say": "",
+   "say_ta": "கீழே drag பண்ணி, Missing-ஐ filter பண்ணுங்க. அவ்வளவுதான்!"
+  },
+  {
+   "type": "cta",
+   "secs": 2.5,
+   "en": "Save & follow for daily tips",
+   "tamil": "தினமும் ஒரு AI & Excel tip — Follow பண்ணுங்க!",
+   "say": "Follow for a daily AI tip.",
+   "say_ta": "தினமும் follow பண்ணுங்க!"
+  }
+ ],
+ "voice": "slt",
+ "music_seed": 0
+}
