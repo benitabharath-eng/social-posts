@@ -22,7 +22,7 @@ body{{width:1080px;height:1350px;background:#0f172a;font-family:'FreeSans',sans-
 h1{{font-size:76px;line-height:1.1;margin:36px 0 18px;font-weight:bold}} h1 span{{color:#f97316}}
 .ta{{font-size:40px;color:#cbd5e1;line-height:1.5}}
 .formula{{margin:44px 0;background:#1e293b;border:3px solid #22c55e;border-radius:22px;padding:30px 36px;
- font-family:'DejaVu Sans Mono',monospace;font-size:36px;color:#4ade80;word-break:break-all;line-height:1.4}}
+ font-family:'DejaVu Sans Mono',monospace;font-size:36px;color:#4ade80;overflow-wrap:break-word;line-height:1.4}}
 .formula small{{display:block;font-family:'FreeSans';font-size:26px;color:#94a3b8;margin-bottom:12px;letter-spacing:2px}}
 .step{{display:flex;gap:28px;margin:28px 0;align-items:flex-start}}
 .n{{flex:0 0 66px;height:66px;border-radius:50%;background:#f97316;color:#0f172a;font-weight:bold;font-size:36px;display:flex;align-items:center;justify-content:center}}

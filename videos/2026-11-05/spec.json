@@ -1,0 +1,56 @@
+{
+ "voice": "slt",
+ "music_seed": 1,
+ "source": "Microsoft 365 Copilot release notes, Nov 4 2026",
+ "scenes": [
+  {
+   "type": "hook",
+   "secs": 2.5,
+   "tag": "AI NEWS · MICROSOFT EXCEL",
+   "title": "Copilot now [[shows what it changed]]",
+   "tamil": "AI உங்க Excel-ல என்ன மாத்துச்சுன்னு இனி உடனே பார்க்கலாம்!",
+   "say": "Copilot in Excel now shows exactly what it changed.",
+   "say_ta": "AI என்ன மாத்துச்சுன்னு இனி உடனே பார்க்கலாம்!"
+  },
+  {
+   "type": "code",
+   "secs": 2.5,
+   "en": "New in Copilot chat (Nov 4):",
+   "code": "Reply → links to new sheets, tables, ranges & charts",
+   "tamil": "Copilot reply-லயே link வரும்",
+   "say": "Copilot's reply now has links to every new sheet, table, range and chart."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "1",
+   "en": "Ask Copilot to edit your workbook",
+   "tamil": "Copilot-கிட்ட workbook-ஐ edit பண்ண சொல்லுங்க",
+   "say_ta": "முதல்ல, Copilot-கிட்ட உங்க workbook-ஐ edit பண்ண சொல்லுங்க."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "2",
+   "en": "Click the link in its reply",
+   "tamil": "Reply-ல இருக்கிற link-ஐ click பண்ணுங்க",
+   "say_ta": "அப்புறம், reply-ல இருக்கிற link-ஐ click பண்ணுங்க."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "3",
+   "en": "Check the highlighted change",
+   "tamil": "Highlight ஆன மாற்றத்தை check பண்ணுங்க",
+   "say_ta": "Highlight ஆன மாற்றத்தை check பண்ணுங்க. AI தப்பு பண்ணா உடனே தெரியும்!"
+  },
+  {
+   "type": "cta",
+   "secs": 2.5,
+   "en": "Always verify AI edits",
+   "tamil": "தினமும் ஒரு AI tip-க்கு follow பண்ணுங்க!",
+   "say": "Follow for daily tips.",
+   "say_ta": "Follow பண்ணுங்க!"
+  }
+ ]
+}
