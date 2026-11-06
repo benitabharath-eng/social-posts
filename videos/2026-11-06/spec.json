@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 2, "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "EXCEL TIP #2 · ACCOUNTS", "title": "Party-wise total in [[one formula]]", "tamil": "ஒவ்வொரு party-க்கும் total தனியா கணக்கு போட வேண்டாம்!", "say": "Get party-wise totals with one Excel formula.", "say_ta": "ஒவ்வொரு party-க்கும் total தனியா கணக்கு போட வேண்டாம்!"},
+ {"type": "code", "secs": 2.5, "en": "Paste in F2:", "code": "=SUMIFS(C:C,A:A,E2)", "tamil": "இந்த formula போதும்", "say": "Paste this SUMIFS formula in cell F 2."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "Party names in A, amounts in C", "tamil": "Party name Column A, amount Column C-ல", "say_ta": "Party name-ஐ Column A-லயும், amount-ஐ Column C-லயும் வைங்க."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "Party list in E: =UNIQUE(A2:A500)", "tamil": "E2-ல UNIQUE போட்டா party list வரும்", "say_ta": "E2-ல UNIQUE formula போட்டா, party list தானா வரும்."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "SUMIFS in F2, drag down", "tamil": "F2-ல SUMIFS போட்டு கீழே drag பண்ணுங்க", "say_ta": "F2-ல SUMIFS போட்டு கீழே drag பண்ணுங்க. அவ்வளவுதான்!"},
+ {"type": "cta", "secs": 2.5, "en": "Save this for month-end", "tamil": "தினமும் ஒரு Excel tip-க்கு follow பண்ணுங்க!", "say": "Save this, and follow for daily tips.", "say_ta": "Follow பண்ணுங்க!"}
+]}
