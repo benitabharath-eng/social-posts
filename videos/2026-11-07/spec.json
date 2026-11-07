@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 0, "source": "OpenAI security research report, Nov 4 2026", "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "AI NEWS · CYBER SECURITY", "title": "AI found [[948 security holes]]", "tamil": "AI இப்போ software ஓட்டைகளை ரொம்ப வேகமா கண்டுபிடிக்குது!", "say": "OpenAI says its upcoming AI model found 948 security holes in Linux.", "say_ta": "AI இப்போ software ஓட்டைகளை ரொம்ப வேகமா கண்டுபிடிக்குது!"},
+ {"type": "code", "secs": 2.5, "en": "What this means for you:", "code": "Hackers can use AI too → Update everything", "tamil": "Hackers-உம் AI use பண்ணலாம்", "say": "Hackers can use AI too. So updates matter more than ever."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "Turn on Windows automatic updates", "tamil": "Windows auto update-ஐ on பண்ணுங்க", "say_ta": "முதல்ல, Windows automatic update-ஐ on பண்ணுங்க."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "Update Chrome, Tally & your apps", "tamil": "Chrome, Tally, apps எல்லாத்தையும் update பண்ணுங்க", "say_ta": "Chrome, Tally, மத்த apps எல்லாத்தையும் update பண்ணுங்க."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "Restart when an update asks", "tamil": "Update restart கேட்டா தள்ளி போடாதீங்க", "say_ta": "Restart கேட்டா தள்ளி போடாதீங்க!"},
+ {"type": "cta", "secs": 2.5, "en": "Share with your office team", "tamil": "உங்க office team-க்கு share பண்ணுங்க!", "say": "Share this with your office team.", "say_ta": "Follow பண்ணுங்க!"}
+]}

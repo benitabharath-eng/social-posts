@@ -27,7 +27,7 @@ Public URLs: `https://raw.githubusercontent.com/benitabharath-eng/social-posts/m
 
 ## 4. Schedule on Metricool (createScheduledPost, publish ~8 min from now, autoPublish true, draft false)
 - **Instagram**: providers [instagram], media [post.jpg URL], instagramData {"type":"POST","showReelOnFeed":true,"isAiGenerated":false}. Caption: English, then "தமிழில்:" Tamil, save & follow @bh_arath1843, 8–12 hashtags.
-- **YouTube** (separate post): providers [youtube], media [short.mp4 URL], youtubeData {"title": "<under 100 chars, no < >, end with #Shorts>", "type":"short", "privacy":"public", "category":"EDUCATION" (or SCIENCE_TECHNOLOGY for AI news), "madeForKids": false, "tags":[...]}. Text = description with #Shorts.
+- **YouTube** (separate post): providers [youtube], media [short.mp4 URL], youtubeData {"title": "<under 100 chars, no < >, end with #Shorts>", "type":"short", "privacy":"public", "category":"EDUCATION" (or SCIENCE_TECHNOLOGY for AI news), "madeForKids": false, "tags":[...]}. Text = description with #Shorts. NEVER use the characters < or > anywhere in the YouTube title or description (YouTube rejects the upload: "invalid video description"). Write "Data, then Remove Duplicates" instead of "Data > Remove Duplicates".
 
 ## 5. Links
 ~10 min after the publish time call getScheduledPosts (brandId 7498096, today, Asia/Calcutta). `providers[0].publicUrl` = live link, status PUBLISHED. Retry once after a few minutes if pending.
