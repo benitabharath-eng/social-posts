@@ -1,0 +1,55 @@
+{
+ "voice": "slt",
+ "music_seed": 1,
+ "scenes": [
+  {
+   "type": "hook",
+   "secs": 2.5,
+   "tag": "AI AT OFFICE · SUNDAY IDEA",
+   "title": "Payment reminders in [[30 seconds]]",
+   "tamil": "Payment reminder mail எழுத இனி கஷ்டம் இல்லை!",
+   "say": "Write polite payment reminders in thirty seconds with AI.",
+   "say_ta": "Payment reminder mail எழுத இனி கஷ்டம் இல்லை!"
+  },
+  {
+   "type": "code",
+   "secs": 2.5,
+   "en": "Copy this prompt:",
+   "code": "Write a polite payment reminder. ABC Traders, Invoice 1023, Rs 45,000, 15 days overdue.",
+   "tamil": "ChatGPT, Gemini அல்லது Claude-ல paste பண்ணுங்க",
+   "say": "Copy this prompt into ChatGPT, Gemini or Claude."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "1",
+   "en": "Change name, invoice no. & amount",
+   "tamil": "Name, invoice number, amount மாத்துங்க",
+   "say_ta": "Customer name, invoice number, amount மாத்துங்க."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "2",
+   "en": "Add: \"also write it in Tamil\"",
+   "tamil": "Tamil-லயும் வேணும்னா கேளுங்க",
+   "say_ta": "Tamil-லயும் வேணும்னா, அதையும் கேளுங்க."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "3",
+   "en": "Check amounts, then send",
+   "tamil": "Amount சரியான்னு check பண்ணி அனுப்புங்க",
+   "say_ta": "Amount சரியான்னு check பண்ணிட்டு அனுப்புங்க!"
+  },
+  {
+   "type": "cta",
+   "secs": 2.5,
+   "en": "Save this prompt",
+   "tamil": "தினமும் ஒரு AI tip-க்கு follow பண்ணுங்க!",
+   "say": "Save this prompt, and follow for daily tips.",
+   "say_ta": "Follow பண்ணுங்க!"
+  }
+ ]
+}
