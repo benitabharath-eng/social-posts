@@ -1,0 +1,56 @@
+{
+ "voice": "slt",
+ "music_seed": 2,
+ "source": "AP report on US indictment, Nov 6 2026",
+ "scenes": [
+  {
+   "type": "hook",
+   "secs": 2.5,
+   "tag": "AI NEWS · ACCOUNTS ALERT",
+   "title": "Fake AI 'CEO' calls: [[$129M scam]]",
+   "tamil": "AI-ல CEO மாதிரி பேசி accounts team-ஐ ஏமாத்துறாங்க!",
+   "say": "Prosecutors say AI fake CEO calls tricked companies of 129 million dollars.",
+   "say_ta": ""
+  },
+  {
+   "type": "code",
+   "secs": 2.5,
+   "en": "How the scam worked (per AP):",
+   "code": "Fake CEO email + AI voice/video call → urgent secret transfer",
+   "tamil": "Email, அப்புறம் AI voice call, அப்புறம் secret transfer",
+   "say": "Fake CEO email, then an AI voice call, asking for a secret transfer."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "1",
+   "en": "Urgent + secret payment = red flag",
+   "tamil": "அவசரம், ரகசியம்னா உடனே சந்தேகப்படுங்க",
+   "say_ta": "அவசரம், ரகசியம்னு சொன்னா, உடனே சந்தேகப்படுங்க."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "2",
+   "en": "Call back on the number you know",
+   "tamil": "உங்ககிட்ட இருக்கிற number-க்கு திரும்ப call பண்ணுங்க",
+   "say_ta": "உங்ககிட்ட ஏற்கனவே இருக்கிற number-க்கு திரும்ப call பண்ணி confirm பண்ணுங்க."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "3",
+   "en": "Two approvals for big payments",
+   "tamil": "பெரிய payment-க்கு ரெண்டு பேர் approval",
+   "say_ta": "பெரிய payment-க்கு ரெண்டு பேர் approval கட்டாயம் வைங்க."
+  },
+  {
+   "type": "cta",
+   "secs": 2.5,
+   "en": "Share with your accounts team",
+   "tamil": "உங்க office-ல இப்படி call வந்திருக்கா? Comment பண்ணுங்க!",
+   "say": "Share this with your accounts team.",
+   "say_ta": "இப்படி call வந்திருக்கா? Comment பண்ணுங்க!"
+  }
+ ]
+}
