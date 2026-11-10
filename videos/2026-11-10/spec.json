@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 1, "source": "Visa press release, Nov 5 2026", "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "AI NEWS · VISA TEST", "title": "AI shopping agents [[failed 42.8%]]", "tamil": "AI-கிட்ட வாங்க சொன்னா, பாதி நேரம் தப்பா போகுது!", "say": "Visa tested 22 AI models as shoppers. They failed 42.8 percent of test runs.", "say_ta": "பாதி நேரம் தப்பா போகுது!"},
+ {"type": "code", "secs": 2.5, "en": "Visa benchmark (Nov 5):", "code": "54% of failed runs still bought something", "tamil": "தப்பா இருந்தாலும் AI வாங்கிடுச்சு", "say": "And in 54 percent of failed runs, the AI still bought something."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "Never let AI pay without your OK", "tamil": "உங்க approval இல்லாம AI pay பண்ண விடாதீங்க", "say_ta": "உங்க approval இல்லாம, AI pay பண்ண விடாதீங்க."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "Give AI full details: budget, specs", "tamil": "Budget, specs எல்லாம் தெளிவா சொல்லுங்க", "say_ta": "Budget, specs எல்லாம் தெளிவா சொல்லுங்க."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "Check the bill before you confirm", "tamil": "Confirm பண்றதுக்கு முன்னாடி bill check பண்ணுங்க", "say_ta": "Confirm பண்றதுக்கு முன்னாடி, bill-ஐ check பண்ணுங்க!"},
+ {"type": "cta", "secs": 2.5, "en": "Would you let AI pay for you?", "tamil": "நீங்க AI-கிட்ட payment விடுவீங்களா? Comment பண்ணுங்க!", "say": "Would you let AI pay for you? Comment below.", "say_ta": "Comment பண்ணுங்க!"}
+]}
