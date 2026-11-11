@@ -20,7 +20,7 @@ h1 em{font-style:normal;color:#f97316}
 .ta{font-size:56px;color:#cbd5e1;line-height:1.5}
 .en{font-size:70px;font-weight:bold;line-height:1.2;margin-bottom:36px}
 .code{background:#1e293b;border:5px solid #22c55e;border-radius:30px;padding:50px 46px;font-family:'DejaVu Sans Mono',monospace;
- font-size:52px;color:#4ade80;line-height:1.5;margin:40px 0;overflow-wrap:break-word}
+ font-size:52px;color:#4ade80;line-height:1.5;margin:40px 0;overflow-wrap:break-word;white-space:pre-line}
 .num{width:150px;height:150px;border-radius:50%;background:#f97316;color:#0f172a;font-weight:bold;font-size:84px;
  display:flex;align-items:center;justify-content:center;margin-bottom:50px}
 .foot{position:absolute;bottom:140px;left:90px;right:90px;font-size:44px;color:#94a3b8;text-align:center}
