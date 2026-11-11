@@ -1,0 +1,56 @@
+{
+ "voice": "slt",
+ "music_seed": 0,
+ "source": "Fortune, Nov 9 2026, citing SHL survey (Jun-Jul 2026)",
+ "scenes": [
+  {
+   "type": "hook",
+   "secs": 2.5,
+   "tag": "AI NEWS · JOBS",
+   "title": "Replaced by AI… then [[asked back!]]",
+   "tamil": "AI-க்காக வேலையை விட்டு அனுப்பினவங்களை திரும்ப கூப்பிடுறாங்க!",
+   "say": "Nearly one in five US workers replaced by AI were later asked to come back.",
+   "say_ta": "திரும்ப கூப்பிடுறாங்க!"
+  },
+  {
+   "type": "code",
+   "secs": 2.5,
+   "en": "SHL survey (US, 2026):",
+   "code": "19.1% of US workers: replaced by AI, then asked back\n51% would want a big pay rise to return",
+   "tamil": "திரும்ப வர நிறைய பேர் அதிக சம்பளம் கேக்குறாங்க",
+   "say": "And half of them want a big pay rise to return."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "1",
+   "en": "AI does tasks, not whole jobs",
+   "tamil": "AI task-ஐ பண்ணும், முழு வேலையை இல்ல",
+   "say_ta": "AI ஒரு task-ஐ பண்ணும், முழு வேலையை இல்ல."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "2",
+   "en": "Learn to use AI tools at work",
+   "tamil": "AI tools-ஐ வேலையில use பண்ண கத்துக்கோங்க",
+   "say_ta": "AI tools-ஐ உங்க வேலையில use பண்ண கத்துக்கோங்க."
+  },
+  {
+   "type": "step",
+   "secs": 2.5,
+   "n": "3",
+   "en": "Build skills AI can't copy",
+   "tamil": "Experience, judgement தான் உங்க பலம்",
+   "say_ta": "உங்க experience, judgement தான் உங்க பலம்!"
+  },
+  {
+   "type": "cta",
+   "secs": 2.5,
+   "en": "Is AI changing your job?",
+   "tamil": "உங்க வேலையில AI மாற்றம் வந்திருக்கா? Comment பண்ணுங்க!",
+   "say": "Is AI changing your job? Comment below.",
+   "say_ta": "Comment பண்ணுங்க!"
+  }
+ ]
+}
