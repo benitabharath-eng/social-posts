@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 1, "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "EXCEL TIP #5 · CLEAN DATA", "title": "VLOOKUP shows [[#N/A]]? Fix it!", "tamil": "Name சரியா இருந்தும் #N/A வருதா? காரணம் extra space!", "say": "VLOOKUP shows N A even when the name looks right? The reason is hidden spaces.", "say_ta": "காரணம் extra space!"},
+ {"type": "code", "secs": 2.5, "en": "Clean names in B2:", "code": "=TRIM(CLEAN(A2))", "tamil": "இந்த formula space-ஐ நீக்கும்", "say": "Use TRIM with CLEAN to remove extra spaces and hidden characters."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "Paste exported names in Column A", "tamil": "Tally export name-ஐ Column A-ல போடுங்க", "say_ta": "Tally-ல இருந்து export பண்ண name-ஐ Column A-ல போடுங்க."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "Formula in B2, drag down", "tamil": "B2-ல formula போட்டு drag பண்ணுங்க", "say_ta": "B2-ல formula போட்டு கீழே drag பண்ணுங்க."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "Do the same on both sheets, then lookup", "tamil": "ரெண்டு sheet-லயும் பண்ணிட்டு lookup பண்ணுங்க", "say_ta": "ரெண்டு sheet-லயும் இப்படி பண்ணிட்டு, lookup பண்ணுங்க!"},
+ {"type": "cta", "secs": 2.5, "en": "Next tip? Comment your problem", "tamil": "அடுத்து எந்த Excel problem? Comment பண்ணுங்க!", "say": "Which Excel problem next? Comment below.", "say_ta": "Comment பண்ணுங்க!"}
+]}
