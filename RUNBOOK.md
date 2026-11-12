@@ -33,6 +33,9 @@ Public URLs: `https://raw.githubusercontent.com/benitabharath-eng/social-posts/m
 ## 4b. Comments
 Read YouTube comments without a browser: firecrawl_scrape alexandria provider "youtube-com", capability "videos/video_comments", options {"video_id": ID} for the last ~7 Shorts (IDs from getScheduledPosts publicUrl). Reply as Bharath only via a browser already signed in to his YouTube (Chrome extension or built-in browser) — never type passwords. If no signed-in browser, send Bharath the suggested reply text instead. Reply only to genuine questions; skip spam/abuse; never delete comments.
 
+## 4c. Metricool post limit (since 12 Nov 2026)
+Free plan = 20 published posts/month (each network counts). If the post limit is reached (error "You have reached your Metricool account limit") and Bharath has not upgraded, do NOT schedule on Metricool. Instead build post.jpg + short.mp4 as usual, push, then send both files to Bharath (SendUserFile) with the Instagram caption and the YouTube title + description ready to paste. Check getScheduledPosts for this month's errors first to know if the limit is hit.
+
 ## 5. Links
 ~10 min after the publish time call getScheduledPosts (brandId 7498096, today, Asia/Calcutta). `providers[0].publicUrl` = live link, status PUBLISHED. Retry once after a few minutes if pending.
 
