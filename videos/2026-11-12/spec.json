@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 2, "source": "Cloud Security Alliance CISO briefing, Nov 11 2026 (Railway estimate)", "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "AI NEWS · SECURITY", "title": "Stolen AI keys: [[$740K bill]]", "tamil": "திருடின AI key-ல கோடிக்கணக்கில் bill வந்திருக்கு!", "say": "Stolen AI keys ran up about 740 thousand dollars in fake usage, Railway estimates.", "say_ta": "கோடிக்கணக்கில் bill!"},
+ {"type": "code", "secs": 2.5, "en": "Remember:", "code": "AI key / AI login = your credit card", "tamil": "AI key-உம் credit card மாதிரி தான்", "say": "An AI key or AI login is like your credit card."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "Never share AI logins or keys", "tamil": "AI login, key-ஐ யார்கிட்டயும் share பண்ணாதீங்க", "say_ta": "AI login, key-ஐ யார்கிட்டயும் share பண்ணாதீங்க."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "Turn on 2-step verification", "tamil": "2-step verification on பண்ணுங்க", "say_ta": "Two step verification-ஐ on பண்ணுங்க."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "Set a monthly spending limit", "tamil": "Monthly spending limit வைங்க", "say_ta": "Paid AI account-க்கு monthly limit வைங்க!"},
+ {"type": "cta", "secs": 2.5, "en": "Share with your office team", "tamil": "உங்க office-ல AI login share பண்றீங்களா? Comment பண்ணுங்க!", "say": "Share this with your office team.", "say_ta": "Comment பண்ணுங்க!"}
+]}
