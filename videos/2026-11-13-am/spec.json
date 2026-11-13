@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 0, "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "EXCEL TIP #6 · TALLY EXPORT", "title": "SUM shows [[0]]? Fix text numbers", "tamil": "Export பண்ண amount-ஐ SUM பண்ணா 0 வருதா?", "say": "Your SUM shows zero after a Tally export? The amounts are stored as text.", "say_ta": "SUM பண்ணா 0 வருதா?"},
+ {"type": "code", "secs": 2.5, "en": "Convert in B2:", "code": "=VALUE(SUBSTITUTE(A2,\",\",\"\"))", "tamil": "Comma-வை நீக்கி number-ஆ மாத்தும்", "say": "This removes the commas and turns the text into a real number."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "Amounts (as text) in Column A", "tamil": "Text-ஆ இருக்கிற amount Column A-ல", "say_ta": "Text-ஆ இருக்கிற amount-ஐ Column A-ல வைங்க."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "Formula in B2, drag down", "tamil": "B2-ல formula போட்டு drag பண்ணுங்க", "say_ta": "B2-ல formula போட்டு கீழே drag பண்ணுங்க."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "Now SUM Column B", "tamil": "இப்போ Column B-ஐ SUM பண்ணுங்க", "say_ta": "இப்போ Column B-ஐ SUM பண்ணுங்க. சரியான total வரும்!"},
+ {"type": "cta", "secs": 2.5, "en": "Next tip? Comment your problem", "tamil": "அடுத்து எந்த Excel problem? Comment பண்ணுங்க!", "say": "Which Excel problem next? Comment below.", "say_ta": "Comment பண்ணுங்க!"}
+]}
