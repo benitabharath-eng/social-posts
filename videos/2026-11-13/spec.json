@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 1, "source": "Google Gemini 4 Hydrogen release, Nov 13 2026 (via Sam on AI, AI Frontier Daily)", "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "AI NEWS · GOOGLE GEMINI", "title": "New Gemini makes [[5x fewer]] made-up claims", "tamil": "Gemini இனி குறைவா பொய் சொல்லும்னு Google சொல்லுது!", "say": "Google released Gemini 4 Hydrogen. Google says it makes over five times fewer made up claims.", "say_ta": ""},
+ {"type": "code", "secs": 2.5, "en": "Gemini 4 Hydrogen (Nov 13):", "code": "In the Gemini app + Search\nFaster for everyday tasks", "tamil": "Gemini app, Search-லயே வருது", "say": "It is rolling out in the Gemini app and Google Search."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "Fewer errors ≠ zero errors", "tamil": "குறைவான தப்பு, ஆனா தப்பே இல்லைன்னு இல்ல", "say_ta": "குறைவான தப்பு தான், ஆனா தப்பே இல்லைன்னு இல்ல."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "Ask: \"Show the source\"", "tamil": "\"Source காட்டு\"ன்னு கேளுங்க", "say_ta": "எப்பவும் source காட்டுன்னு கேளுங்க."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "Check numbers before you use them", "tamil": "Numbers-ஐ use பண்றதுக்கு முன்னாடி check பண்ணுங்க", "say_ta": "Numbers-ஐ use பண்றதுக்கு முன்னாடி check பண்ணுங்க!"},
+ {"type": "cta", "secs": 2.5, "en": "Gemini or ChatGPT? Comment!", "tamil": "நீங்க எந்த AI use பண்றீங்க? Comment பண்ணுங்க!", "say": "Gemini or ChatGPT? Comment below.", "say_ta": "Comment பண்ணுங்க!"}
+]}

@@ -1,0 +1,42 @@
+=== INSTAGRAM CAPTION (post.jpg) ===
+Excel Tip #6 for Accountants 📊
+SUM shows 0 after a Tally/ERP export? Your amounts are stored as TEXT, not numbers!
+
+=VALUE(SUBSTITUTE(A2,",",""))
+
+1️⃣ Amounts (as text) in Column A
+2️⃣ Formula in B2, drag down
+3️⃣ Now SUM Column B — correct total ✅
+
+SUBSTITUTE removes the commas, VALUE turns the text into a real number. Tip: text numbers usually sit on the LEFT of the cell; real numbers sit on the RIGHT.
+
+🇮🇳 தமிழில்: Export பண்ண amount-ஐ SUM பண்ணா 0 வருதா? Amount text-ஆ இருக்கு! B2-ல இந்த formula போட்டு drag பண்ணுங்க, அப்புறம் Column B-ஐ SUM பண்ணுங்க.
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #TallyPrime #Tally #DataCleaning #Accounting #ExcelTamil #TamilTech #AccountsTamil #FinanceAutomation #ExcelFormula
+
+
+=== YOUTUBE (short.mp4) ===
+Title:
+SUM Shows 0? Fix Text Numbers from Tally Export | Excel Tip in Tamil #Shorts
+
+Description:
+SUM shows 0 after a Tally or ERP export? The amounts are stored as text.
+
+Fix: =VALUE(SUBSTITUTE(A2,",",""))
+
+1. Amounts (as text) in Column A
+2. Formula in B2, drag down
+3. Now SUM Column B
+
+SUBSTITUTE removes the commas, VALUE turns the text into a real number.
+
+தமிழில்: Export பண்ண amount-ஐ SUM பண்ணா 0 வருதா?
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #TallyPrime #Accounting #ExcelTamil #TamilTech
+
+Settings: Audience = No, it's not made for kids. Category = Education.

@@ -1,0 +1,42 @@
+=== INSTAGRAM CAPTION (post.jpg) ===
+Excel Tip #7 for Accountants 📊
+Catch duplicate invoice entries instantly — before they reach your GST return!
+
+=IF(COUNTIF($A$2:A2,A2)>1,"Dup","")
+
+1️⃣ Invoice numbers in Column A
+2️⃣ Formula in B2, drag down
+3️⃣ Filter "Dup" and check those rows ✅
+
+The first entry stays blank; every repeat after it is marked "Dup". The $A$2 lock makes the range grow as you drag.
+
+🇮🇳 தமிழில்: ஒரே bill ரெண்டு தடவை entry ஆகியிருக்கா? Invoice number Column A-ல வைங்க, B2-ல formula போட்டு drag பண்ணுங்க, "Dup"-ஐ filter பண்ணி check பண்ணுங்க!
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #COUNTIF #Audit #DuplicateInvoice #GST #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil
+
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Catch Duplicate Invoices Instantly with COUNTIF | Excel Tip in Tamil #Shorts
+
+Description:
+Catch duplicate invoice entries instantly in Excel.
+
+Formula in B2: =IF(COUNTIF($A$2:A2,A2)>1,"Dup","")
+
+1. Invoice numbers in Column A
+2. Formula in B2, drag down
+3. Filter Dup and check those rows
+
+The first entry stays blank; every repeat is marked Dup.
+
+தமிழில்: ஒரே bill ரெண்டு தடவை entry ஆகியிருக்கா? உடனே கண்டுபிடிங்க!
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #COUNTIF #Audit #ExcelTamil #TamilTech
+
+Settings: Audience = No, it's not made for kids. Category = Education.
