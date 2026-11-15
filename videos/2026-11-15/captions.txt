@@ -1,0 +1,28 @@
+=== INSTAGRAM (upload post.jpg) ===
+AI at Office · Sunday Idea 💡
+Meeting notes → to-do list in 1 minute!
+
+Copy this prompt into ChatGPT, Gemini or Claude:
+"Make a to-do table from these notes: task, owner, due date. Notes: ..."
+
+1️⃣ Paste your rough notes after the prompt
+2️⃣ Copy the table into Excel
+3️⃣ Remove client names & amounts before pasting 🔒
+
+🇮🇳 தமிழில்: Meeting notes-ஐ AI-ல ஒரே நிமிஷத்துல to-do list ஆக்குங்க! Notes-ஐ paste பண்ணுங்க, வர்ற table-ஐ Excel-ல copy பண்ணுங்க. Client name, amount மாதிரி details-ஐ முதல்ல நீக்குங்க.
+
+💬 What office task should AI do for you next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#AITips #ChatGPT #Productivity #OfficeTips #MeetingNotes #Excel #AITamil #TamilTech #WorkSmart
+
+=== YOUTUBE SHORT (upload short.mp4) ===
+Title: Meeting Notes to To-Do List in 1 Minute with AI | AI Tip in Tamil #Shorts
+Description:
+Copy this prompt into ChatGPT, Gemini or Claude: Make a to-do table from these notes: task, owner, due date. Notes: ...
+1. Paste your rough notes
+2. Copy the table into Excel
+3. Remove client names and amounts first
+தமிழில்: Meeting notes-ஐ ஒரே நிமிஷத்துல to-do list ஆக்குங்க!
+What office task should AI do for you next? Comment below.
+#Shorts #AITips #ChatGPT #Productivity #AITamil #TamilTech
