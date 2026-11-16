@@ -48,3 +48,4 @@ Message Bharath (SendUserMessage and PushNotification if available): topic + Ins
 - Instagram comments can be replied to with action reply_to_comment (genuine questions only).
 - YouTube: Windsor has NO upload action. Until Metricool resets (1 Dec) or is upgraded, send short.mp4 + captions.txt to Bharath (SendUserFile) for manual upload.
 - Windsor plan is TRIAL — if create_image_post fails with a plan error, fall back to 4c and tell Bharath.
+- YouTube fallback that worked (16 Nov): save short.mp4 files to his PC via device_commit_files into C:\Users\dell\Videos\Shorts to upload\ (folder access granted), open YouTube Studio upload in Chrome, Bharath clicks Select files (Ctrl+A). Then fill each draft with JS (title/description via execCommand insertText on #title-textarea/#description-textarea #textbox, click radio VIDEO_MADE_FOR_KIDS_NOT_MFK, Next x3, radio PUBLIC, #done-button). No < or > in text.
