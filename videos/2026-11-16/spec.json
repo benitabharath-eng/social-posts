@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 0, "source": "Microsoft 365 Copilot accounting capabilities in Excel, GA rollout from Nov 13 2026 (Message Center MC1536053)", "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "AI NEWS · EXCEL COPILOT", "title": "Excel AI now does [[reconciliations]]", "tamil": "Excel Copilot இப்போ reconciliation, journal entry பண்ணும்!", "say": "Copilot in Excel can now help with reconciliations and journal entries.", "say_ta": ""},
+ {"type": "code", "secs": 2.5, "en": "New in Copilot in Excel:", "code": "Reconcile accounts\nDraft journal entries\nExplain variances", "tamil": "Nov 13 முதல் rollout ஆகுது", "say": "Microsoft started rolling it out to everyone from November thirteenth."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "Needs a Microsoft 365 Copilot licence", "tamil": "Copilot licence தேவை", "say_ta": "இதுக்கு Copilot licence தேவை."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "AI prepares, you review", "tamil": "AI தயார் பண்ணும், நீங்க check பண்ணுங்க", "say_ta": "AI தயார் பண்ணும், நீங்க தான் check பண்ணணும்."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "Never post without checking", "tamil": "Check பண்ணாம post பண்ணாதீங்க", "say_ta": "Check பண்ணாம entry post பண்ணாதீங்க!"},
+ {"type": "cta", "secs": 2.5, "en": "Would you trust AI with your books? Comment!", "tamil": "உங்க accounts-ஐ AI-கிட்ட நம்புவீங்களா? Comment பண்ணுங்க!", "say": "Would you trust AI with your books? Comment below.", "say_ta": "Comment பண்ணுங்க!"}
+]}

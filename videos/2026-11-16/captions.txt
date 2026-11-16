@@ -1,0 +1,37 @@
+=== INSTAGRAM (upload post.jpg) ===
+AI News 📊 Excel's AI can now help with reconciliations!
+
+Microsoft is rolling out new accounting features in Copilot in Excel: reconcile accounts, draft journal entries and explain variances. Worldwide rollout started on Nov 13 and should finish by late November.
+
+What accountants should know:
+1️⃣ Needs a Microsoft 365 Copilot licence
+2️⃣ AI prepares the work, you review it
+3️⃣ Never post an entry without checking ✅
+
+🇮🇳 தமிழில்: Excel Copilot இப்போ reconciliation, journal entry பண்ண உதவும்! இதுக்கு Copilot licence தேவை. AI தயார் பண்ணும், ஆனா நீங்க தான் check பண்ணணும். Check பண்ணாம entry post பண்ணாதீங்க.
+
+Source: Microsoft 365 Message Center (MC1536053), rollout from Nov 13, 2026
+
+💬 Would you trust AI with your books? Comment below!
+Follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#AINews #Excel #Copilot #Accounting #Reconciliation #FinanceAutomation #AITamil #TamilTech #ExcelTamil #Tally
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Excel Copilot Now Does Reconciliations and Journal Entries | AI News in Tamil #Shorts
+
+Description:
+Microsoft is rolling out new accounting features in Copilot in Excel: reconcile accounts, draft journal entries and explain variances. Worldwide rollout started Nov 13, 2026.
+
+1. Needs a Microsoft 365 Copilot licence
+2. AI prepares, you review
+3. Never post an entry without checking
+
+தமிழில்: Excel Copilot இப்போ reconciliation, journal entry பண்ண உதவும்!
+
+Source: Microsoft 365 Message Center MC1536053
+
+Would you trust AI with your books? Comment below.
+
+#Shorts #AINews #Excel #Copilot #Accounting #AITamil #TamilTech
