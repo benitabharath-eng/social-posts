@@ -1,0 +1,29 @@
+=== INSTAGRAM (upload post.jpg) ===
+Excel Tip #9 for Accountants 📊
+Your customer's PAN is already inside their GSTIN!
+
+B2 (PAN): =MID(A2,3,10)
+
+1️⃣ GSTIN in Column A
+2️⃣ State code: =LEFT(A2,2) (33 = Tamil Nadu)
+3️⃣ Check length: =LEN(A2)=15 → FALSE means a wrong GSTIN ✅
+
+Tip: clean spaces first with =TRIM(A2) if the GSTIN came from an export.
+
+🇮🇳 தமிழில்: GSTIN-லயே PAN இருக்கு! 3-வது எழுத்துலேருந்து 10 எழுத்து தான் PAN. முதல் 2 எழுத்து state code (தமிழ்நாடு = 33). 15 எழுத்து இல்லைன்னா GSTIN தப்பு!
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #GSTIN #PAN #GST #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil #TDS
+
+=== YOUTUBE SHORT (upload short.mp4) ===
+Title: Get PAN from GSTIN in Excel | Excel Tip in Tamil #Shorts
+Description:
+PAN from GSTIN: =MID(A2,3,10)
+1. GSTIN in Column A
+2. State code: =LEFT(A2,2) (33 = Tamil Nadu)
+3. Check length: =LEN(A2)=15
+தமிழில்: GSTIN-லயே PAN இருக்கு! ஒரே formula-ல எடுங்க.
+Which Excel problem should I solve next? Comment below.
+#Shorts #ExcelTips #GSTIN #PAN #ExcelTamil #TamilTech
