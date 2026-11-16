@@ -41,3 +41,10 @@ Free plan = 20 published posts/month (each network counts). If the post limit is
 
 ## 6. Report
 Message Bharath (SendUserMessage and PushNotification if available): topic + Instagram link + YouTube link, or the exact error.
+
+## 4d. Instagram via Windsor.ai (from 16 Nov 2026, while Metricool free limit is used up)
+- Instagram: Windsor connector `execute_action` connector=instagram, account=17841446994501927, action=create_image_post, params {image_url: raw.githubusercontent.com/.../post.jpg, caption}. Image must be JPEG 4:5 (our 1080x1350 is fine). Push to GitHub first.
+- Link: Windsor `get_data` connector=instagram fields [media_id, media_permalink, timestamp] date_preset last_3dT (no force_refresh on trial plan).
+- Instagram comments can be replied to with action reply_to_comment (genuine questions only).
+- YouTube: Windsor has NO upload action. Until Metricool resets (1 Dec) or is upgraded, send short.mp4 + captions.txt to Bharath (SendUserFile) for manual upload.
+- Windsor plan is TRIAL — if create_image_post fails with a plan error, fall back to 4c and tell Bharath.
