@@ -1,0 +1,37 @@
+=== INSTAGRAM (upload post.jpg) ===
+Excel Tip #10 for Accountants 📊
+Get due dates automatically — no calendar counting!
+
+C2 (20th of next month): =EOMONTH(B2,0)+20
+
+1️⃣ Bill date in Column B
+2️⃣ 30 days credit instead? Use =B2+30 in C2
+3️⃣ Days left in D2: =C2-TODAY() (negative = overdue) ✅
+
+Format C as Date and D as Number. EOMONTH(B2,0) gives the last day of that month, so +20 lands on the 20th of the next month — handy for GST and TDS due dates.
+
+🇮🇳 தமிழில்: Due date-ஐ calendar பார்த்து எண்ண வேண்டாம்! Bill date Column B-ல வைங்க. அடுத்த மாசம் 20-ம் தேதிக்கு =EOMONTH(B2,0)+20, 30 நாள் credit-க்கு =B2+30. இன்னும் எத்தனை நாள்னு =C2-TODAY() காட்டும்!
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #EOMONTH #DueDate #GST #TDS #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Get Due Dates Automatically with EOMONTH | Excel Tip in Tamil #Shorts
+
+Description:
+20th of next month: =EOMONTH(B2,0)+20
+
+1. Bill date in Column B
+2. 30 days credit: =B2+30
+3. Days left: =C2-TODAY() (negative means overdue)
+
+Format C as Date and D as Number.
+
+தமிழில்: Due date-ஐ calendar பார்த்து எண்ண வேண்டாம்!
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #EOMONTH #GST #ExcelTamil #TamilTech
