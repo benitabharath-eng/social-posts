@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 1, "source": "Microsoft 365 global outage Nov 12-13 2026 (BleepingComputer, ABC11/AP, Reuters via Downdetector)", "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "AI NEWS · OUTAGE ALERT", "title": "Outlook, Teams & Copilot [[went down]]", "tamil": "Outlook, Teams, Copilot உலகம் முழுக்க வேலை செய்யல!", "say": "Microsoft 365 had a big global outage. Outlook, Teams and Copilot stopped working.", "say_ta": ""},
+ {"type": "code", "secs": 2.5, "en": "Microsoft 365 outage (Nov 12-13):", "code": "Outlook, Teams, Copilot down\nReports from 74 countries", "tamil": "74 நாடுகள்ல பாதிப்பு", "say": "People in 74 countries reported problems."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "Keep offline copies of key files", "tamil": "முக்கிய files-ஐ PC-லயும் save பண்ணுங்க", "say_ta": "முக்கிய files-ஐ PC-லயும் save பண்ணி வைங்க."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "Save key contacts' phone numbers", "tamil": "முக்கிய phone numbers save பண்ணுங்க", "say_ta": "முக்கியமானவங்க phone number-ஐ save பண்ணுங்க."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "Don't depend on one AI tool", "tamil": "ஒரே AI tool-ஐ மட்டும் நம்பாதீங்க", "say_ta": "ஒரே AI tool-ஐ மட்டும் நம்பி இருக்காதீங்க!"},
+ {"type": "cta", "secs": 2.5, "en": "Did the outage hit your office? Comment!", "tamil": "உங்க office-ல பாதிப்பு இருந்ததா? Comment பண்ணுங்க!", "say": "Did the outage hit your office? Comment below.", "say_ta": "Comment பண்ணுங்க!"}
+]}
