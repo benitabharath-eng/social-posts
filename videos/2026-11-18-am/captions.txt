@@ -1,0 +1,37 @@
+=== INSTAGRAM (upload post.jpg) ===
+Excel Tip #11 for Accountants 📊
+Month-wise sales report in one formula!
+
+C2 (month name): =TEXT(A2,"mmm-yy")
+
+1️⃣ Bill date in Column A, amount in Column B
+2️⃣ Formula in C2, drag down (15-11-2026 → Nov-26)
+3️⃣ Insert Pivot: month in Rows, amount in Values = month-wise total ✅
+
+Tip: if the Pivot sorts months A–Z (Apr, Aug, Dec…), use =EOMONTH(A2,0) instead and format the column as mmm-yy — months stay in date order.
+
+🇮🇳 தமிழில்: Date-ஐ month-ஆ மாத்தி month-wise report எடுங்க! Date Column A-ல, amount Column B-ல வைங்க. C2-ல formula போட்டு drag பண்ணுங்க, Pivot போட்டா month-wise total ரெடி!
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #PivotTable #SalesReport #MIS #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil #FinanceAutomation
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Month-wise Sales Report with TEXT and Pivot | Excel Tip in Tamil #Shorts
+
+Description:
+Month name from a date: =TEXT(A2,"mmm-yy")
+
+1. Bill date in Column A, amount in Column B
+2. Formula in C2, drag down
+3. Pivot: month in Rows, amount in Values
+
+If the Pivot sorts months A to Z, use =EOMONTH(A2,0) formatted as mmm-yy instead.
+
+தமிழில்: Date-ஐ month-ஆ மாத்தி month-wise report எடுங்க!
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #PivotTable #Accounting #ExcelTamil #TamilTech
