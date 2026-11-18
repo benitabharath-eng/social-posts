@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 2, "source": "Microsoft Copilot blog, Ignite 2026 (Nov 17): Home and Office in Copilot GA, Autopilot announced", "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "AI NEWS · MICROSOFT IGNITE", "title": "Word, Excel & PowerPoint [[inside Copilot]]", "tamil": "Word, Excel, PowerPoint இப்போ Copilot-க்குள்ளயே!", "say": "At Microsoft Ignite, Microsoft put Word, Excel and PowerPoint inside Copilot.", "say_ta": ""},
+ {"type": "code", "secs": 2.5, "en": "Announced Nov 17 at Ignite:", "code": "Office in Copilot: available now\nAutopilot: always-on AI agent", "tamil": "Autopilot = எப்பவும் வேலை செய்யும் AI agent", "say": "They also showed Autopilot, an AI agent that keeps working for you."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "One app for chat + documents", "tamil": "Chat, documents ஒரே இடத்துல", "say_ta": "Chat-உம் documents-உம் ஒரே இடத்துல."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "Mainly for company Microsoft 365 users", "tamil": "பெரும்பாலும் company Microsoft 365 users-க்கு", "say_ta": "இது பெரும்பாலும் company Microsoft 365 users-க்கு."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "Learn Excel basics — AI needs them", "tamil": "Excel basics கத்துக்கோங்க, AI-க்கும் தேவை", "say_ta": "Excel basics கத்துக்கோங்க, AI-ஐ சரியா use பண்ண அது தேவை!"},
+ {"type": "cta", "secs": 2.5, "en": "Do you use Copilot at work? Comment!", "tamil": "Office-ல Copilot use பண்றீங்களா? Comment பண்ணுங்க!", "say": "Do you use Copilot at work? Comment below.", "say_ta": "Comment பண்ணுங்க!"}
+]}
