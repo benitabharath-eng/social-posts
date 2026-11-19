@@ -1,0 +1,35 @@
+=== INSTAGRAM (upload post.jpg) ===
+Excel Tip #12 for Accountants 📊
+Make overdue bills turn RED automatically!
+
+Conditional Formatting rule: =$C2<TODAY()
+
+1️⃣ Select your bill rows (for example A2:E500), with due date in Column C
+2️⃣ Home → Conditional Formatting → New Rule
+3️⃣ "Use a formula…", paste the rule, choose a red fill → OK ✅
+
+The $ before C keeps every cell looking at the due date column, so the whole row turns red. Tomorrow, new overdue bills turn red by themselves.
+
+🇮🇳 தமிழில்: Due date தாண்டின bill தானா red ஆகும்! Bill rows-ஐ select பண்ணுங்க, Home → Conditional Formatting → New Rule, formula போட்டு red colour select பண்ணுங்க.
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #ConditionalFormatting #Outstanding #Receivables #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil #FinanceAutomation
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Overdue Bills Turn Red Automatically | Conditional Formatting Excel Tip in Tamil #Shorts
+
+Description:
+Make overdue bills turn red automatically in Excel. The rule is shown in the video (due date in Column C compared with TODAY).
+
+1. Select your bill rows, due date in Column C
+2. Home, Conditional Formatting, New Rule
+3. Use a formula, paste the rule, choose red fill
+
+தமிழில்: Due date தாண்டின bill தானா red ஆகும்!
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #ConditionalFormatting #Accounting #ExcelTamil #TamilTech
