@@ -1,0 +1,37 @@
+=== INSTAGRAM (upload post.jpg) ===
+Excel Tip #13 for Accountants 📊
+Find the LAST purchase rate of any item instantly!
+
+B2 (last rate): =XLOOKUP(A2,P!B:B,P!D:D,"-",0,-1)
+
+1️⃣ Purchase register in a sheet named "P", in date order: item name in B, rate in D
+2️⃣ Item name in A2 of your report
+3️⃣ Formula in B2, drag down ✅
+
+The last argument -1 makes XLOOKUP search from the bottom, so you get the most recent rate, not the first one. "-" shows when the item is not found. XLOOKUP needs Excel 365 / 2021.
+
+🇮🇳 தமிழில்: ஒரு item-ஓட கடைசி purchase rate உடனே தெரியணுமா? Purchase register-ஐ "P" sheet-ல date order-ல வைங்க. Report-ல A2-ல item name, B2-ல formula போட்டு drag பண்ணுங்க. -1 கீழே இருந்து தேடி latest rate-ஐ காட்டும்!
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #XLOOKUP #PurchaseRate #Inventory #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil #FinanceAutomation
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Find Last Purchase Rate with XLOOKUP | Excel Tip in Tamil #Shorts
+
+Description:
+Last purchase rate: =XLOOKUP(A2,P!B:B,P!D:D,"-",0,-1)
+
+1. Purchase register in sheet P, date order, item in B, rate in D
+2. Item name in A2 of your report
+3. Formula in B2, drag down
+
+The -1 searches from the bottom, so you get the latest rate. Needs Excel 365 or 2021.
+
+தமிழில்: ஒரு item-ஓட கடைசி purchase rate உடனே தெரியணுமா?
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #XLOOKUP #Accounting #ExcelTamil #TamilTech
