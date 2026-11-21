@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 2, "source": "AI-assisted cyberattack on European Commission payroll systems, reported Nov 20 2026 (The Neuron digest)", "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "AI NEWS · CYBER ALERT", "title": "AI-assisted hack hit [[payroll]]", "tamil": "AI உதவியோட hack, payroll system பாதிப்பு!", "say": "An AI assisted cyber attack hit the payroll systems of the European Commission.", "say_ta": ""},
+ {"type": "code", "secs": 2.5, "en": "European Commission (Nov 20):", "code": "Payroll + medical claims\ntemporarily affected", "tamil": "Salary, medical claim system தற்காலிகமா பாதிப்பு", "say": "Staff payroll and medical claim systems were affected for a while."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "Back up payroll files daily", "tamil": "Payroll files-ஐ தினமும் backup எடுங்க", "say_ta": "Payroll files-ஐ தினமும் backup எடுங்க."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "Turn on 2-step login everywhere", "tamil": "எல்லா login-க்கும் 2-step verification", "say_ta": "எல்லா login-க்கும் 2-step verification on பண்ணுங்க."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "Report strange mails at once", "tamil": "சந்தேகமான mail-ஐ உடனே report பண்ணுங்க", "say_ta": "சந்தேகமான mail வந்தா உடனே report பண்ணுங்க!"},
+ {"type": "cta", "secs": 2.5, "en": "Does your office keep backups? Comment!", "tamil": "உங்க office-ல backup இருக்கா? Comment பண்ணுங்க!", "say": "Does your office keep backups? Comment below.", "say_ta": "Comment பண்ணுங்க!"}
+]}
