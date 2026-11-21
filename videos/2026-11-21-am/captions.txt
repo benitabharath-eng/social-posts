@@ -1,0 +1,37 @@
+=== INSTAGRAM (upload post.jpg) ===
+Excel Tip #14 for Accountants 📊
+SUM still counts hidden rows after you filter? Use this!
+
+Total of visible rows: =SUBTOTAL(109,D2:D500)
+
+1️⃣ Put the formula above your table (amount in Column D)
+2️⃣ Filter by party, RSM or month
+3️⃣ The total changes with every filter ✅
+
+109 means "SUM only the rows you can see". Use 103 instead of 109 to COUNT visible rows.
+
+🇮🇳 தமிழில்: Filter போட்டாலும் SUM எல்லா row-ஐயும் கூட்டுதா? SUBTOTAL(109,…) தெரியற rows-ஐ மட்டும் கூட்டும். Formula-வை table-க்கு மேல வைங்க, party அல்லது RSM-னு filter பண்ணுங்க, total தானா மாறும்!
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #SUBTOTAL #Filter #SalesReport #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil #FinanceAutomation
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Total Only Filtered Rows with SUBTOTAL | Excel Tip in Tamil #Shorts
+
+Description:
+Total of visible rows: =SUBTOTAL(109,D2:D500)
+
+1. Put the formula above your table
+2. Filter by party, RSM or month
+3. The total changes with every filter
+
+Use 103 instead of 109 to count visible rows.
+
+தமிழில்: Filter போட்டாலும் SUM எல்லா row-ஐயும் கூட்டுதா?
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #SUBTOTAL #Accounting #ExcelTamil #TamilTech
