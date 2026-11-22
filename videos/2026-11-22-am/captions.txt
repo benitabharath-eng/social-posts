@@ -1,0 +1,37 @@
+=== INSTAGRAM (upload post.jpg) ===
+Excel Tip #15 for Accountants 📊
+Sales growth % — this month vs last month — in one formula!
+
+D2 (growth %): =IFERROR(C2/B2-1,"-")
+
+1️⃣ Last month's sales in Column B, this month's in Column C
+2️⃣ Formula in D2, drag down, then format Column D as %
+3️⃣ A minus value means sales dropped ✅
+
+Example: last month ₹1,00,000, this month ₹1,20,000 → 20% growth. IFERROR shows "-" when last month is zero (a new customer).
+
+🇮🇳 தமிழில்: இந்த மாசம் sales எவ்வளவு % கூடுச்சு? B-ல last month, C-ல this month sales வைங்க. D2-ல formula போட்டு % format பண்ணுங்க. Minus வந்தா sales குறைஞ்சிருக்குன்னு அர்த்தம்!
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #SalesGrowth #MIS #IFERROR #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil #FinanceAutomation
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Sales Growth Percent in One Excel Formula | Excel Tip in Tamil #Shorts
+
+Description:
+Growth percent: =IFERROR(C2/B2-1,"-")
+
+1. Last month in Column B, this month in Column C
+2. Formula in D2, format as percent
+3. A minus value means sales dropped
+
+Example: 1,00,000 to 1,20,000 is 20 percent growth.
+
+தமிழில்: இந்த மாசம் sales எவ்வளவு % கூடுச்சு?
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #SalesGrowth #MIS #ExcelTamil #TamilTech
