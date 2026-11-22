@@ -1,0 +1,36 @@
+=== INSTAGRAM (upload post.jpg) ===
+AI at Office · Sunday Idea 💡
+Let AI write your payment reminder mail in 1 minute!
+
+Copy this prompt into ChatGPT, Gemini or Claude:
+"Write a short, polite but firm payment reminder for invoice [No], amount [Rs], due [date]."
+
+1️⃣ Keep the [brackets] — don't type real customer details into AI
+2️⃣ Paste the draft into your own mail and fill in the real details there
+3️⃣ Read it once, then send ✅
+
+Bonus: add "Make it firmer — this is the second reminder" for overdue customers.
+
+🇮🇳 தமிழில்: Payment reminder mail-ஐ AI-ல ஒரு நிமிஷத்துல எழுதுங்க! Prompt-ல brackets அப்படியே வைங்க, customer details-ஐ AI-ல type பண்ணாதீங்க. உண்மையான details-ஐ உங்க mail-ல fill பண்ணுங்க, ஒரு தடவை படிச்சிட்டு send பண்ணுங்க.
+
+💬 What office mail should AI write for you next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#AITips #ChatGPT #PaymentReminder #Receivables #Accounting #OfficeTips #AITamil #TamilTech #Productivity
+
+=== YOUTUBE (short.mp4) ===
+Title:
+AI Writes Your Payment Reminder Mail in 1 Minute | AI Tip in Tamil #Shorts
+
+Description:
+Copy this prompt into ChatGPT, Gemini or Claude: Write a short, polite but firm payment reminder for invoice [No], amount [Rs], due [date].
+
+1. Keep the [brackets], don't type real customer details into AI
+2. Fill the real details in your own mail
+3. Read it once, then send
+
+தமிழில்: Payment reminder mail-ஐ AI-ல ஒரு நிமிஷத்துல எழுதுங்க!
+
+What office mail should AI write next? Comment below.
+
+#Shorts #AITips #ChatGPT #Accounting #AITamil #TamilTech
