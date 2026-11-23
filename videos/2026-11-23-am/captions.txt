@@ -1,0 +1,36 @@
+=== INSTAGRAM (upload post.jpg) ===
+Excel Tip #16 for Accountants 📊
+Split names in 1 second — no formula — with Ctrl+E (Flash Fill)!
+
+Column A: Sri Balaji Traders - Madurai
+Type in B2: Sri Balaji Traders
+
+1️⃣ Type one example of what you want in B2
+2️⃣ Click B3 and press Ctrl+E
+3️⃣ Excel fills the whole column by itself ✅
+
+Works for city names, first names, GSTIN parts, invoice numbers and more. Flash Fill gives plain values, so run it again if Column A changes.
+
+🇮🇳 தமிழில்: Formula இல்லாம data-வை பிரிக்கணுமா? B2-ல ஒரு example type பண்ணுங்க, B3 click பண்ணி Ctrl+E அழுத்துங்க. Excel முழு column-ஐயும் தானா fill பண்ணும்!
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #FlashFill #CtrlE #DataCleaning #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil #ExcelShortcuts
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Split Names in 1 Second with Ctrl+E Flash Fill | Excel Tip in Tamil #Shorts
+
+Description:
+No formula needed. Column A: Sri Balaji Traders - Madurai. Type in B2: Sri Balaji Traders.
+
+1. Type one example in B2
+2. Click B3 and press Ctrl+E
+3. Excel fills the whole column
+
+தமிழில்: Formula இல்லாம data-வை பிரிக்கணுமா? Ctrl+E!
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #FlashFill #ExcelShortcuts #ExcelTamil #TamilTech
