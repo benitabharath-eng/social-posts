@@ -1,0 +1,37 @@
+=== INSTAGRAM (upload post.jpg) ===
+Excel Tip #17 for Accountants 📊
+You drag a formula down and the answers go wrong? Press F4!
+
+GST rate in E1, amount in Column B → C2: =B2*$E$1
+
+1️⃣ Type =B2*E1 in C2
+2️⃣ Click on E1 inside the formula and press F4 (it becomes $E$1)
+3️⃣ Now drag down — every row uses E1 ✅
+
+Why: without $, Excel moves E1 to E2, E3… as you drag (those cells are empty, so you get 0). The $ locks the cell. Laptop? Try Fn+F4.
+
+🇮🇳 தமிழில்: Formula drag பண்ணா தப்பா வருதா? Formula-ல E1 மேல click பண்ணி F4 அழுத்துங்க, $E$1 ஆகும். $ அந்த cell-ஐ lock பண்ணும், இப்போ drag பண்ணா எல்லாம் சரியா வரும்!
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #F4 #AbsoluteReference #GST #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil #ExcelShortcuts
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Drag Formula Gives Wrong Answers? Press F4 | Excel Tip in Tamil #Shorts
+
+Description:
+GST rate in E1, amount in Column B. Formula in C2: =B2*$E$1
+
+1. Type =B2*E1 in C2
+2. Click on E1 inside the formula and press F4
+3. Drag down, every row uses E1
+
+The $ locks the cell. On a laptop, try Fn+F4.
+
+தமிழில்: Formula drag பண்ணா தப்பா வருதா? F4 அழுத்துங்க!
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #F4 #ExcelShortcuts #ExcelTamil #TamilTech
