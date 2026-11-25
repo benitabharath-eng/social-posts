@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 1, "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "EXCEL TIP #18 · CLEAN DATA", "title": "Delete all [[blank rows]] in 5 seconds", "tamil": "Tally export-ல blank rows நிறைய இருக்கா?", "say": "Delete all blank rows from a Tally export in five seconds.", "say_ta": "Tally export-ல blank rows நிறைய இருக்கா?"},
+ {"type": "code", "secs": 2.5, "en": "Shortcut path:", "code": "F5 > Special > Blanks > OK\nCtrl + minus > Entire row", "tamil": "Formula தேவையில்ல", "say": "Press F5, choose Special, then Blanks. Then delete the entire rows."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "Select one column of your data", "tamil": "Data-ல ஒரு column select பண்ணுங்க", "say_ta": "Data-ல ஒரு column select பண்ணுங்க."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "F5 > Special > Blanks > OK", "tamil": "F5 → Special → Blanks → OK", "say_ta": "F5, Special, Blanks, OK."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "Ctrl + minus > Entire row > OK", "tamil": "Ctrl + minus → Entire row → OK", "say_ta": "Control minus, Entire row, OK. முடிஞ்சது!"},
+ {"type": "cta", "secs": 2.5, "en": "Next tip? Comment your problem", "tamil": "அடுத்து எந்த Excel problem? Comment பண்ணுங்க!", "say": "Which Excel problem next? Comment below.", "say_ta": "Comment பண்ணுங்க!"}
+]}

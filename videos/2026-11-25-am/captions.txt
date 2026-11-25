@@ -1,0 +1,37 @@
+=== INSTAGRAM (upload post.jpg) ===
+Excel Tip #18 for Accountants 📊
+Delete all blank rows from a Tally export in 5 seconds!
+
+F5 → Special → Blanks → OK, then Ctrl + minus → Entire row → OK
+
+1️⃣ Select one column that is never empty in a real row (like Date or Voucher No.)
+2️⃣ Press F5 → Special → Blanks → OK
+3️⃣ Press Ctrl + minus (–) → Entire row → OK ✅
+
+⚠️ Pick the column carefully: any row that is blank in that column will be deleted. Save a copy first.
+
+🇮🇳 தமிழில்: Tally export-ல blank rows நிறைய இருக்கா? Date மாதிரி எப்பவும் நிரம்பியிருக்கற column-ஐ select பண்ணுங்க. F5 → Special → Blanks → OK, அப்புறம் Ctrl + minus → Entire row → OK. முதல்ல ஒரு copy save பண்ணிக்கோங்க!
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #BlankRows #DataCleaning #GoToSpecial #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil #ExcelShortcuts
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Delete All Blank Rows in 5 Seconds | Excel Tip in Tamil #Shorts
+
+Description:
+Delete blank rows from a Tally export without any formula.
+
+1. Select one column that is never empty in a real row (like Date)
+2. Press F5, choose Special, choose Blanks, OK
+3. Press Ctrl and minus, choose Entire row, OK
+
+Any row blank in that column will be deleted, so save a copy first.
+
+தமிழில்: Tally export-ல blank rows நிறைய இருக்கா?
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #DataCleaning #ExcelShortcuts #ExcelTamil #TamilTech
