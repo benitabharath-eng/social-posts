@@ -1,0 +1,8 @@
+{"voice": "slt", "music_seed": 2, "scenes": [
+ {"type": "hook", "secs": 2.5, "tag": "EXCEL TIP #19 · CTRL+T", "title": "Formulas that [[extend themselves]]", "tamil": "புது row சேர்த்தா formula தானா வரணுமா? Ctrl+T!", "say": "Want formulas to copy themselves into every new row? Press control T.", "say_ta": "புது row சேர்த்தா formula தானா வரணுமா?"},
+ {"type": "code", "secs": 2.5, "en": "Turn your data into a Table:", "code": "Click any cell > Ctrl+T > OK", "tamil": "Data-வை Table ஆக்குங்க", "say": "Click any cell in your data, press control T, then OK."},
+ {"type": "step", "secs": 2.5, "n": "1", "en": "Click inside your data, Ctrl+T", "tamil": "Data-க்குள்ள click பண்ணி Ctrl+T", "say_ta": "Data-க்குள்ள click பண்ணி Control T அழுத்துங்க."},
+ {"type": "step", "secs": 2.5, "n": "2", "en": "Type a formula once in a new column", "tamil": "புது column-ல ஒரு தடவை formula", "say_ta": "புது column-ல ஒரு தடவை formula type பண்ணுங்க."},
+ {"type": "step", "secs": 2.5, "n": "3", "en": "New rows get the formula + filters", "tamil": "புது rows-க்கு formula தானா வரும்", "say_ta": "புது rows-க்கு formula, filter எல்லாம் தானா வரும்!"},
+ {"type": "cta", "secs": 2.5, "en": "Next tip? Comment your problem", "tamil": "அடுத்து எந்த Excel problem? Comment பண்ணுங்க!", "say": "Which Excel problem next? Comment below.", "say_ta": "Comment பண்ணுங்க!"}
+]}

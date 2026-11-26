@@ -1,0 +1,37 @@
+=== INSTAGRAM (upload post.jpg) ===
+Excel Tip #19 for Accountants 📊
+Formulas that copy themselves into every new row — press Ctrl+T!
+
+Click any cell in your data → Ctrl+T → OK
+
+1️⃣ Click inside your data and press Ctrl+T (tick "My table has headers")
+2️⃣ Type a formula once in a new column — it fills the whole column
+3️⃣ Add new rows at the bottom: they get the formula, filters and format automatically ✅
+
+Bonus: Pivots and charts built on a Table grow with it — just Refresh.
+
+🇮🇳 தமிழில்: புது row சேர்த்தா formula தானா வரணுமா? Data-க்குள்ள click பண்ணி Ctrl+T அழுத்துங்க. புது column-ல ஒரு தடவை formula type பண்ணுங்க. புது rows-க்கு formula, filter எல்லாம் தானா வரும்!
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #ExcelTable #CtrlT #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil #ExcelShortcuts #FinanceAutomation
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Formulas That Extend Themselves with Ctrl+T | Excel Tip in Tamil #Shorts
+
+Description:
+Turn your data into a Table: click any cell, press Ctrl+T, OK.
+
+1. Click inside your data and press Ctrl+T
+2. Type a formula once in a new column
+3. New rows get the formula, filters and format automatically
+
+Pivots built on a Table grow with it, just Refresh.
+
+தமிழில்: புது row சேர்த்தா formula தானா வரணுமா? Ctrl+T!
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #ExcelTable #ExcelShortcuts #ExcelTamil #TamilTech
