@@ -1,0 +1,38 @@
+=== INSTAGRAM (upload post.jpg) ===
+Excel Tip #20 for Accountants 📊
+Show amounts in Indian lakhs format — 12,34,567 instead of 1,234,567!
+
+Custom format (copy as ONE line):
+[>=10000000]##\,##\,##\,##0;[>=100000]##\,##\,##0;##,##0
+
+1️⃣ Select the amount column
+2️⃣ Press Ctrl+1 → Number → Custom
+3️⃣ Paste the format in the "Type" box → OK ✅
+
+Result: 1234567 → 12,34,567 and 123456789 → 12,34,56,789. Only the look changes — the real number stays the same, so totals still work.
+
+🇮🇳 தமிழில்: 1,234,567 இல்ல, 12,34,567 மாதிரி lakhs format-ல காட்டணுமா? Amount column-ஐ select பண்ணுங்க, Ctrl+1 → Number → Custom, மேல இருக்கற format-ஐ ஒரே line-ஆ paste பண்ணி OK!
+
+💬 Which Excel problem should I solve next? Comment below!
+Save 🔖 & follow @bh_arath1843 for daily AI & Excel tips in English + தமிழ்.
+
+#ExcelTips #IndianNumberFormat #Lakhs #CustomFormat #Tally #Accounting #ExcelTamil #TamilTech #AccountsTamil #MIS
+
+=== YOUTUBE (short.mp4) ===
+Title:
+Show Amounts in Indian Lakhs Format in Excel | Excel Tip in Tamil #Shorts
+
+Description:
+Show 12,34,567 instead of 1,234,567 with a custom number format. The full format code is shown in the video.
+
+1. Select the amount column
+2. Press Ctrl+1, choose Number, then Custom
+3. Paste the format in the Type box, OK
+
+Only the look changes, the real number stays the same.
+
+தமிழில்: Lakhs format-ல amount காட்டணுமா?
+
+Which Excel problem should I solve next? Comment below.
+
+#Shorts #ExcelTips #IndianNumberFormat #Accounting #ExcelTamil #TamilTech
